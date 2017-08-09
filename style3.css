@@ -1,0 +1,66 @@
+#mainPage{
+    display: none;
+    
+}
+
+#endPage{
+    display: none;
+}
+
+#startPage{
+    text-align: center;
+}
+
+#table{
+    display: center;
+}
+.book{
+    text-align: center;
+    display: none;
+    margin-top: 225px;
+    margin-bottom: 80px;
+    
+}
+
+.active{
+     
+    display: block;
+} 
+
+img{
+    height: 400px;
+    width: 300px;
+    border: 20px thick black;
+    padding: 10px;
+    
+} 
+
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    }
+
+h1 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    color: blueviolet;   
+}
+
+h2{ color: white;   }
+
+button{
+    size: 100px;
+    color: blue;
+    background: white;
+}
+
+
+p{
+    font-style: italic;
+    color: black;
+}
+
+#bookContainer{
+    display: center;
+}

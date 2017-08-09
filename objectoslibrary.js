@@ -65,7 +65,7 @@ function Library(){  // classe Library
             //              </tr>`   
                      //$("#table tbody").append(table);   
             //         };
-            // };
+};
 
 
 function Book(image, title, descricao, links){
